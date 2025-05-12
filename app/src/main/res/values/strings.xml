@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gestor de Tareas</string>
+
+    <string-array name="opciones_recordatorio">
+        <item>Sin recordatorio</item>
+        <item>5 minutos antes</item>
+        <item>15 minutos antes</item>
+        <item>30 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>2 horas antes</item>
+        <item>1 día antes</item>
+    </string-array>
+</resources>
